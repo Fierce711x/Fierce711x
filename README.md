@@ -1,16 +1,78 @@
-## Hi there 👋
+```md
+# Hi, I'm Eyad 👋
 
-<!--
-**Fierce711x/Fierce711x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend-focused Full Stack Developer passionate about scalable systems, real-time applications, and backend engineering.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+### Frontend
+- React.js
+- HTML5
+- CSS3
+
+### Backend
+- Node.js
+- Express.js
+- REST APIs
+- WebSockets
+
+### Databases
+- MongoDB
+- PostgreSQL
+
+### Tools & Technologies
+- TypeScript
+- Docker
+- Kubernetes
+- Git & GitHub
+- JWT
+- Zod
+- bcrypt
+
+---
+
+## 💻 Competitive Programming
+
+- ICPC Training
+- Codeforces
+- LeetCode
+- VJudge
+
+---
+
+## 📌 Featured Projects
+
+### ⚽ Sportz WebSockets Backend
+Real-time sports match state backend using WebSockets and the PERN stack.
+
+🔗 Repo:
+https://github.com/Fierce711x/sportz-websockets
+
+---
+
+### 🏋️ Workout Buddy
+Workout management application with authentication and account isolation.
+
+🔗 Repo:
+https://github.com/Fierce711x/workout-buddy
+
+---
+
+### ✅ Simple Todo TS
+Todo application built with React and TypeScript using local storage persistence.
+
+🔗 Repo:
+https://github.com/Fierce711x/simple-todo-ts
+
+---
+
+## 📫 Contact
+
+- Email: eyadwaleed7116@gmail.com
+- LinkedIn: https://linkedin.com/in/eyad-elemam
+- GitHub: https://github.com/Fierce711x
+- Codeforces: https://codeforces.com/profile/Fierce711x
+```
+
