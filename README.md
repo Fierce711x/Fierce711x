@@ -1,4 +1,3 @@
-```md
 # Hi, I'm Eyad 👋
 
 Backend-focused Full Stack Developer passionate about scalable systems, real-time applications, and backend engineering.
@@ -74,5 +73,4 @@ https://github.com/Fierce711x/simple-todo-ts
 - LinkedIn: https://linkedin.com/in/eyad-elemam
 - GitHub: https://github.com/Fierce711x
 - Codeforces: https://codeforces.com/profile/Fierce711x
-```
 
