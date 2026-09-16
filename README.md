@@ -14,12 +14,15 @@ Backend-focused Full Stack Developer passionate about scalable systems, real-tim
 ### Backend
 - Node.js
 - Express.js
+- Nest.js
 - REST APIs
 - WebSockets
 
 ### Databases
 - MongoDB
 - PostgreSQL
+- Prisma
+- Neon
 
 ### Tools & Technologies
 - TypeScript
