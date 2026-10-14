@@ -32,6 +32,7 @@ Backend-focused Full Stack Developer passionate about scalable systems, real-tim
 - JWT
 - Zod
 - bcrypt
+- Axios
 
 ---
 
@@ -63,10 +64,10 @@ https://github.com/Fierce711x/workout-buddy
 ---
 
 ### ✅ Simple Todo TS
-Todo application built with React and TypeScript using local storage persistence.
+Image filter app built with React and C++ using webview.h lib and injecting React into it.
 
 🔗 Repo:
-https://github.com/Fierce711x/simple-todo-ts
+https://github.com/Fierce711x/image-processor
 
 ---
 
