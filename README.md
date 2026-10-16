@@ -47,6 +47,25 @@ Backend-focused Full Stack Developer passionate about scalable systems, real-tim
 
 ## 📌 Featured Projects
 
+### Educational Platform — Real-World Backend Project
+
+Building the backend for an educational platform for a biology teacher.
+
+**Completed: Authentication & WebSocket Connection Management**
+
+- Implemented JWT access and refresh-token authentication, refresh-token rotation, hashed token storage, and refresh-token reuse detection.
+- Developed device-based session management supporting multiple device sessions.
+- Implemented WebSocket authentication and single-active-connection enforcement per user, prioritizing the first connection.
+- Handled connection lifecycle race conditions that could leave stale registry entries and prevent users from reconnecting.
+- Implemented abort-aware connection setup and defensive cleanup across failure and finalization paths.
+- Added unit and integration tests for the authentication module.
+
+**Stack:** NestJS, TypeScript, Prisma, PostgreSQL, WebSockets.
+
+**Status:** In development; authentication and connection management are implemented. Other platform features remain in development.
+
+**Source code:** Private.
+
 ### ⚽ Sportz WebSockets Backend
 Real-time sports match state backend using WebSockets and the PERN stack.
 
