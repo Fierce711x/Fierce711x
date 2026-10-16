@@ -63,7 +63,7 @@ https://github.com/Fierce711x/workout-buddy
 
 ---
 
-### ✅ Simple Todo TS
+### Image Filter
 Image filter app built with React and C++ using webview.h lib and injecting React into it.
 
 🔗 Repo:
